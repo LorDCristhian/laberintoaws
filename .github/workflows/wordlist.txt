@@ -1,0 +1,9 @@
+me
+flag
+secret
+password
+trust-me
+trust-flag
+t_rodman
+laberinto
+sniper
